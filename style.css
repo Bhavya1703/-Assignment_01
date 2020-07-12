@@ -1,7 +1,7 @@
 body {
   margin: 0px;
   padding: 0px;
-  background: url('images/user.jpg');
+  background: url("./images/user.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
